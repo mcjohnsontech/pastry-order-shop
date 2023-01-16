@@ -1,0 +1,22 @@
+{
+  "name": "pastry-order-shop",
+  "version": "1.0.0",
+  "description": "It's a web app where you order for pastrys and pay at once",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcjohnsontech/pastry-order-shop.git"
+  },
+  "keywords": [
+    "\"order\""
+  ],
+  "author": "mark johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcjohnsontech/pastry-order-shop/issues"
+  },
+  "homepage": "https://github.com/mcjohnsontech/pastry-order-shop#readme"
+}
